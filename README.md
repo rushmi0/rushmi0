@@ -1,10 +1,9 @@
 
 <div align="center">
-  <span><img src="assets/pix_pro2.gif"  width=712 /></span>
+  <span><img src="assets/pix_pro2.gif" height=350 width=712 /></span>
 </div>
 
 ___
-
 
 **rushmi0/rushmi0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
