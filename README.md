@@ -19,9 +19,12 @@ Here are some ideas to get you started:
 
 <br/>
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/rushmi0/rushmi0/main/assets/pix_pro1.gif" align="right"/>
 
 ## 🛠️ Language and Tools
+
+<p>
+<br/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/rushmi0/rushmi0/main/assets/pix_pro1.gif" align="right"/>
 
 <div align="center">
     <code><img width="50" src="https://user-images.githubusercontent.com/25181517/185062810-7ee0c3d2-17f2-4a98-9d8a-a9576947692b.png" alt="Kotlin" title="Kotlin"/></code>
@@ -37,6 +40,9 @@ Here are some ideas to get you started:
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/></code>
 </div>
+
+</p>
+
 
 ###  
 
