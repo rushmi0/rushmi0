@@ -3,6 +3,7 @@
 </div>
 
 ___
+<img src="https://komarev.com/ghpvc/?username=ushmi0&style=flat-square&color=blue" align="right"/>
 
 # 👤 About Me 
 <p>
