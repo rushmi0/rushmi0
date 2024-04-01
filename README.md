@@ -6,12 +6,16 @@ ___
 
 # 👤 About Me 
 <p>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi!... I'm passionate about coding on the ✨ Backend ✨ using Kotlin as my primary language<br>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there! I'm passionate about coding on the Backend using Kotlin as my primary language.<br>
 </p>
 
-- 🎓 I'm currently studying Information Technology
 
-- 💡 In my free time, I write code about Bitcoin and learn about it. run ⚡ Bitcoin LN node and learn Nostr Protocols
+
+- 🎓 I'm currently studying Information Technology.
+
+- 💡 In my free time, I write code related to Bitcoin and delve into learning more about it. I also run a ⚡ Bitcoin LN node and explore Nostr Protocols.
+
+
 
 
 <br/>
