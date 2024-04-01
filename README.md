@@ -23,11 +23,8 @@ Here are some ideas to get you started:
 
 
 [![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=rushmi0&repo=Jungmha&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rushmi0/Jungmha)
-
 [![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=rushmi0&repo=genesec&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rushmi0/genesec)
-
 [![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=rushmi0&repo=CamRent&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rushmi0/CamRent)
-
 [![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=rushmi0&repo=SeedCracker&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rushmi0/SeedCracker)
 
 <br/>
