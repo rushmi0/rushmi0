@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 <br/>
 <br/> 
 
-## Pin repo
+## 📌 Pin repo
 
 
 [![Jungmha](https://github-readme-stats.vercel.app/api/pin/?username=rushmi0&repo=Jungmha&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rushmi0/Jungmha)
