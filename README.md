@@ -4,13 +4,11 @@
   <span><img src="assets/pix_pro2.gif" height=350 width=712 /></span>
 </div>
 
-___
+
 
 <img src="https://komarev.com/ghpvc/?username=ushmi0&style=flat-square&color=blue" align="right"/>
 
 
-
-# 
 <h1 align="center">👤 About Me</h1>
 
 <p>
