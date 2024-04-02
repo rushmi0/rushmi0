@@ -13,7 +13,7 @@
 
 <p>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi!, currently studying in bachelor of science Information Technology<br>
-    I have a strong passion for Backend Development using Kotlin as my primary language
+    I have a strong passion for Backend Development, Bitcoin and Nostr using Kotlin as my primary language
 </p>
 
 
