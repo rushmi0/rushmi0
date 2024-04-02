@@ -56,6 +56,9 @@ ___
 [![genesec](https://github-readme-stats.vercel.app/api/pin/?username=rushmi0&repo=genesec&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rushmi0/genesec)
 [![CamRent](https://github-readme-stats.vercel.app/api/pin/?username=rushmi0&repo=CamRent&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rushmi0/CamRent)
 [![SeedCracker](https://github-readme-stats.vercel.app/api/pin/?username=rushmi0&repo=SeedCracker&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rushmi0/SeedCracker)
+[![ECC Security](https://github-readme-stats.vercel.app/api/pin/?username=rushmi0&repo=ECC-Security&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rushmi0/ECC-Security)
+
+
 
 <br/>
 <hr/>
