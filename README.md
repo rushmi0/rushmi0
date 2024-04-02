@@ -1,3 +1,5 @@
+<h1 align="center">~ ⚡ Welcome to my Profile ⚡ ~</h1>
+
 <div align="center">
   <span><img src="assets/pix_pro2.gif" height=350 width=712 /></span>
 </div>
@@ -8,11 +10,25 @@ ___
 
 
 
-# 👤 About Me 
+# 
+<h1 align="center">👤 About Me</h1>
+
 <p>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi!, currently studying in bachelor of science Information Technology<br>
     I have a strong passion for Backend Development using Kotlin as my primary language
 </p>
+
+
+[//]: # (<p>)
+
+[//]: # (    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> สวัสดีครับ  ตอนนี้ผมกำลังศึกษา คณะเทคโนโลยีสารสนเทศและ<br>)
+
+[//]: # (    ผมสนใจการเขียนโค้ดในด้าน Backend โดยใช้ Kotlin เป็นภาษาหลัก)
+
+[//]: # (</p>)
+
+
+
 
 
 
@@ -36,7 +52,8 @@ ___
 
 <br/>
 
-## 🛠️ Language and Tools
+## 
+<h1 align="center">🛠️ Language and Tools</h1>
 
 <p>
 <br/>
@@ -63,8 +80,7 @@ ___
 <br/>
 <br/> 
 
-## 📌 Pin repo
-
+<h1 align="center">📌 Pin repo</h1>
 
 [![Jungmha](https://github-readme-stats.vercel.app/api/pin/?username=rushmi0&repo=Jungmha&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rushmi0/Jungmha)
 [![genesec](https://github-readme-stats.vercel.app/api/pin/?username=rushmi0&repo=genesec&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rushmi0/genesec)
@@ -77,8 +93,8 @@ ___
 <br/>
 <hr/>
 <br/>
-
-## ⚙️  GitHub Analytics
+ 
+<h1 align="center">⚙️ GitHub Analytics</h1>
 
 <p align="center">
   <a href="https://github.com/rushmi0">
