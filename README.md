@@ -14,7 +14,7 @@ ___
 
 - 🎓 I'm currently studying Information Technology.
 
-- 💡 In my free time, I write code related to Bitcoin and delve into learning more about it. I also run a ⚡ Bitcoin LN node and explore Nostr Protocols.
+[//]: # (- 💡 In my free time, I write code related to Bitcoin and delve into learning more about it. I also run a ⚡ Bitcoin LN node and explore Nostr Protocols.)
 
 
 
