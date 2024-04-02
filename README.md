@@ -3,19 +3,34 @@
 </div>
 
 ___
+
 <img src="https://komarev.com/ghpvc/?username=ushmi0&style=flat-square&color=blue" align="right"/>
+
+
 
 # 👤 About Me 
 <p>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there! I'm passionate about coding on the Backend using Kotlin as my primary language.<br>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi, I am Watchrapol, Currently studying in bachelor of science Information Technology<br>
+    I have a strong passion for Backend Development using Kotlin as my primary language
 </p>
 
 
 
-- 🎓 I'm currently studying Information Technology.
+[//]: # (- 🎓 I'm currently studying Information Technology.)
 
-[//]: # (- 💡 In my free time, I write code related to Bitcoin and delve into learning more about it. I also run a ⚡ Bitcoin LN node and explore Nostr Protocols.)
+[//]: # ()
+[//]: # (### My Article)
 
+[//]: # ()
+[//]: # (<ul>)
+
+[//]: # (  <li><p>🔗<a href="https://potofu.me/maybe515" rel="noopener noreferrer" target="_blank">POTOFU Account</a></p></li>)
+
+[//]: # (  <li><p>𝒂𝒏𝒅 𝒎𝒐𝒓𝒆...　🔗<a href="Self-Introductions.md">Self-Introductions.md</a></p></li>)
+
+[//]: # (</ul>)
+
+[//]: # (<br>)
 
 
 
