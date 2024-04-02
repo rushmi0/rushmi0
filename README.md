@@ -1,4 +1,4 @@
-<h1 align="center">~ ⚡ Welcome to my Profile ⚡ ~</h1>
+<h1 align="center">⚡ Welcome to my Profile ⚡</h1>
 
 <div align="center">
   <span><img src="assets/pix_pro2.gif" height=350 width=712 /></span>
@@ -50,7 +50,7 @@
 
 <br/>
 
-## 
+
 <h1 align="center">🛠️ Language and Tools</h1>
 
 <p>
