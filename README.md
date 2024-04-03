@@ -15,9 +15,9 @@
 <h1 align="center">👤 About Me</h1>
 
 <p>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi!, currently studying in bachelor of science Information Technology<br>
-    I have a strong passion for Backend Development, Bitcoin and Nostr using Kotlin as my primary language
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi!, currently studying for a Bachelor of Science in Information Technology.
 </p>
+I have a strong passion for Backend Development, Bitcoin, and Nostr using Kotlin as my primary language.
 
 
 [//]: # (<p>)
