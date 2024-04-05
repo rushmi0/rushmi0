@@ -74,6 +74,8 @@ I have a strong passion for Backend Development, Bitcoin, and Nostr using Kotlin
     <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183017085-067f30b6-1032-4f89-adc4-ba917d6d0f3a.png" alt="GraalVM" title="GraalVM"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/></code>
+    <code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fedora_logo.svg" alt="Docker" title="Fedora"/></code>
+    <code><img width="50" src="https://www.pngall.com/wp-content/uploads/5/Linux-PNG-Download-Image.png" alt="Linux" title="Fedora"/></code>
 </div>
 
 </p>
@@ -90,6 +92,7 @@ I have a strong passion for Backend Development, Bitcoin, and Nostr using Kotlin
 [![genesec](https://github-readme-stats.vercel.app/api/pin/?username=rushmi0&repo=genesec&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rushmi0/genesec)
 [![CamRent](https://github-readme-stats.vercel.app/api/pin/?username=rushmi0&repo=CamRent&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rushmi0/CamRent)
 [![SeedCracker](https://github-readme-stats.vercel.app/api/pin/?username=rushmi0&repo=SeedCracker&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rushmi0/SeedCracker)
+[![Bit Entropy](https://github-readme-stats.vercel.app/api/pin/?username=rushmi0&repo=Bit-Entropy&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rushmi0/Bit-Entropy)
 [![ECC Security](https://github-readme-stats.vercel.app/api/pin/?username=rushmi0&repo=ECC-Security&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rushmi0/ECC-Security)
 
 
