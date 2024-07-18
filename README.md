@@ -89,11 +89,10 @@ I have a strong passion for Backend development, Bitcoin, and Nostr use Kotlin a
 
 <h1 align="center">📌 Pin repo</h1>
 
-[![Fenrir-s](https://github-readme-stats.vercel.app/api/pin/?username=rushmi0&repo=Fenrir-s&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rushmi0/SeedCracker)
+[![Fenrir-s](https://github-readme-stats.vercel.app/api/pin/?username=rushmi0&repo=Fenrir-s&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rushmi0/Fenrir-s)
 [![Jungmha](https://github-readme-stats.vercel.app/api/pin/?username=rushmi0&repo=Jungmha&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rushmi0/Jungmha)
 [![genesec](https://github-readme-stats.vercel.app/api/pin/?username=rushmi0&repo=genesec&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rushmi0/genesec)
 [![ECC Security](https://github-readme-stats.vercel.app/api/pin/?username=rushmi0&repo=ECC-Security&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rushmi0/ECC-Security)
-
 
 
 <br/>
