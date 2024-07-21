@@ -19,17 +19,10 @@
 </p>
 I have a strong passion for Backend development, Bitcoin, and Nostr use Kotlin as my primary language.
 
-[//]: # (<p>)
 
-[//]: # (    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> สวัสดีครับ  ตอนนี้ผมกำลังศึกษา คณะเทคโนโลยีสารสนเทศและ<br>)
+### Contact
 
-[//]: # (    ผมสนใจการเขียนโค้ดในด้าน Backend โดยใช้ Kotlin เป็นภาษาหลัก)
-
-[//]: # (</p>)
-
-
-
-
+- Nostr : `npub1ujevvncwfe22hv6d2cjv6pqwqhkvwlcvge7vgm3vcn2max9tu03sgze8ry`
 
 
 [//]: # (- 🎓 I'm currently studying Information Technology.)
@@ -92,7 +85,7 @@ I have a strong passion for Backend development, Bitcoin, and Nostr use Kotlin a
 [![Fenrir-s](https://github-readme-stats.vercel.app/api/pin/?username=rushmi0&repo=Fenrir-s&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rushmi0/Fenrir-s)
 [![Jungmha](https://github-readme-stats.vercel.app/api/pin/?username=rushmi0&repo=Jungmha&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rushmi0/Jungmha)
 [![genesec](https://github-readme-stats.vercel.app/api/pin/?username=rushmi0&repo=genesec&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rushmi0/genesec)
-[![ECC Security](https://github-readme-stats.vercel.app/api/pin/?username=rushmi0&repo=ECC-Security&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rushmi0/ECC-Security)
+[![SecureKey](https://github-readme-stats.vercel.app/api/pin/?username=rushmi0&repo=SecureKey&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rushmi0/SecureKey)
 
 
 <br/>
