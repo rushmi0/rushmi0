@@ -20,9 +20,11 @@
 I have a strong passion for Backend development, Bitcoin, and Nostr use Kotlin as my primary language.
 
 
-### Contact
+### Contact 
 
-- Nostr : `npub1ujevvncwfe22hv6d2cjv6pqwqhkvwlcvge7vgm3vcn2max9tu03sgze8ry`
+- **Nostr** 💬 
+  - Nostr Address: `lnwza007@rushmi0.github.io ` 
+  - Nostr key: `npub1ujevvncwfe22hv6d2cjv6pqwqhkvwlcvge7vgm3vcn2max9tu03sgze8ry`
 
 
 [//]: # (- 🎓 I'm currently studying Information Technology.)
