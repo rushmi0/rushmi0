@@ -22,9 +22,8 @@ I have a strong passion for Backend development, Bitcoin, and Nostr use Kotlin a
 
 ### Contact 💬
 
-- **Nostr**  
-  - Nostr Address: `lnwza007@rushmi0.github.io ` 
-  - Nostr key: `npub1ujevvncwfe22hv6d2cjv6pqwqhkvwlcvge7vgm3vcn2max9tu03sgze8ry`
+- **Nostr** 
+  - <img src="https://user-images.githubusercontent.com/99301796/219719339-5eff628c-3470-4cc3-81eb-404f8902de9f.gif" height="30" /> `npub1ujevvncwfe22hv6d2cjv6pqwqhkvwlcvge7vgm3vcn2max9tu03sgze8ry`
 
 
 [//]: # (- 🎓 I'm currently studying Information Technology.)
@@ -45,7 +44,6 @@ I have a strong passion for Backend development, Bitcoin, and Nostr use Kotlin a
 [//]: # (</ul>)
 
 [//]: # (<br>)
-
 
 
 <br/>
