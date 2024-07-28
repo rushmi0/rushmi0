@@ -24,7 +24,7 @@ I have a strong passion for Backend development, Bitcoin, and Nostr use Kotlin a
 
 - **Nostr** 
   - <img height="30" width="30" src="https://user-images.githubusercontent.com/99301796/219719339-5eff628c-3470-4cc3-81eb-404f8902de9f.gif" />  `lnwza007@rushmi0.win` 
-  - <img height="30" width="30" src="https://private-user-images.githubusercontent.com/34000272/269358393-3a92631b-e1c8-47a7-81b3-137d3380733e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjIxNDUyMDMsIm5iZiI6MTcyMjE0NDkwMywicGF0aCI6Ii8zNDAwMDI3Mi8yNjkzNTgzOTMtM2E5MjYzMWItZTFjOC00N2E3LTgxYjMtMTM3ZDMzODA3MzNlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzI4VDA1MzUwM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTRkNzVlM2FhYjcwYzFmMjkzZGJiNDUzNTQ0NjQzMGVhNjFiMmY4Y2U2ZTM2Njk5YTQ2ZjE1MjNlMzNhYTA2OTkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.eBk0FdpVbKITNTX0SzL93NbU2sIdG4mVyDoK24Z_pc0" /> `npub1ujevvncwfe22hv6d2cjv6pqwqhkvwlcvge7vgm3vcn2max9tu03sgze8ry`
+  - <img height="30" width="30" src="https://user-images.githubusercontent.com/99301796/219719339-5eff628c-3470-4cc3-81eb-404f8902de9f.gif" /> `npub1ujevvncwfe22hv6d2cjv6pqwqhkvwlcvge7vgm3vcn2max9tu03sgze8ry`
 
 
 [//]: # (- 🎓 I'm currently studying Information Technology.)
