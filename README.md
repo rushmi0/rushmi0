@@ -1,4 +1,8 @@
-<h1 align="center">⚡ Welcome to my Profile ⚡</h1>
+<h1 align="center">
+<img height="40" src="assets/Sparkles.webp">
+Welcome to my Profile
+<img height="40" src="assets/Sparkles.webp">
+</h1>
 
 <div align="center">
   <span><img src="assets/pix_pro2.gif" height=350 width=712 /></span>
@@ -20,11 +24,11 @@
 I have a strong passion for Backend development, Bitcoin, and Nostr use Kotlin as my primary language.
 
 
-### Contact 💬
+### 💬 Contact 
 
 - **Nostr** 
-  - <img height="30" width="30" src="https://user-images.githubusercontent.com/99301796/219719339-5eff628c-3470-4cc3-81eb-404f8902de9f.gif" />  `lnwza007@rushmi0.win` 
-  - <img height="30" width="30" src="https://user-images.githubusercontent.com/99301796/219719339-5eff628c-3470-4cc3-81eb-404f8902de9f.gif" /> `npub1ujevvncwfe22hv6d2cjv6pqwqhkvwlcvge7vgm3vcn2max9tu03sgze8ry`
+  - <img height="30" width="30" src="https://user-images.githubusercontent.com/99301796/219719339-5eff628c-3470-4cc3-81eb-404f8902de9f.gif" />  `lnwza007@rushmi0.win` (NIP-05)
+  - <img height="30" width="30" src="https://user-images.githubusercontent.com/99301796/219719339-5eff628c-3470-4cc3-81eb-404f8902de9f.gif" /> `npub1ujevvncwfe22hv6d2cjv6pqwqhkvwlcvge7vgm3vcn2max9tu03sgze8ry` (Public Key)
 
 
 [//]: # (- 🎓 I'm currently studying Information Technology.)
@@ -50,7 +54,7 @@ I have a strong passion for Backend development, Bitcoin, and Nostr use Kotlin a
 <br/>
 
 
-<h1 align="center">🛠️ Language and Tools</h1>
+<h1 align="center">🛠️ Language and Tools 💻</h1>
 
 <p>
 <br/>
@@ -81,7 +85,7 @@ I have a strong passion for Backend development, Bitcoin, and Nostr use Kotlin a
 <br/>
 <br/> 
 
-<h1 align="center">📌 Pin repo</h1>
+<h1 align="center">📌 Pin repo ⚡</h1>
 
 [![Fenrir-s](https://github-readme-stats.vercel.app/api/pin/?username=rushmi0&repo=Fenrir-s&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rushmi0/Fenrir-s)
 [![ECC-Security](https://github-readme-stats.vercel.app/api/pin/?username=rushmi0&repo=ECC-Security&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rushmi0/ECC-Security)
@@ -93,7 +97,7 @@ I have a strong passion for Backend development, Bitcoin, and Nostr use Kotlin a
 <hr/>
 <br/>
  
-<h1 align="center">⚙️ GitHub Analytics</h1>
+<h1 align="center">📊 GitHub Analytics</h1>
 
 <p align="center">
   <a href="https://github.com/rushmi0">
@@ -118,3 +122,4 @@ I have a strong passion for Backend development, Bitcoin, and Nostr use Kotlin a
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=rushmi0&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=3faa9a&point=3faa9a&area_color=FFFFFF&title_color=749ee0&area=true" alt="Al Siam's Graph">
 </div>
+
