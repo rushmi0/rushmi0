@@ -74,7 +74,7 @@ I have a strong passion for Backend development, Bitcoin, and Nostr use Kotlin a
     <code><img height="48" width="50" src="https://avatars.githubusercontent.com/u/10176827?s=200&v=4" alt="GraalVM" title="GraalVM"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/></code>
-    <code><img width="50" src="https://www.pngall.com/wp-content/uploads/5/Linux-PNG-Download-Image.png" alt="Linux" title="Linux"/></code>
+    <code><img width="50" src="assets/Gunter.gif" alt="Linux" title="Linux"/></code>
 </div>
 
 </p>
@@ -88,7 +88,7 @@ I have a strong passion for Backend development, Bitcoin, and Nostr use Kotlin a
 <h1 align="center">📌 Pin repo ⚡</h1>
 
 [![Fenrir-s](https://github-readme-stats.vercel.app/api/pin/?username=rushmi0&repo=Fenrir-s&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rushmi0/Fenrir-s)
-[![rust-webassembly](https://github-readme-stats.vercel.app/api/pin/?username=rushmi0&repo=rust-webassembly&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rushmi0/rust-webassembly)
+[![story-teller](https://github-readme-stats.vercel.app/api/pin/?username=rushmi0&repo=story-teller&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rushmi0/story-teller)
 
 [![ECC-Security](https://github-readme-stats.vercel.app/api/pin/?username=rushmi0&repo=ECC-Security&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rushmi0/ECC-Security)
 [![genesec](https://github-readme-stats.vercel.app/api/pin/?username=rushmi0&repo=genesec&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rushmi0/genesec)
