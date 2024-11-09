@@ -28,7 +28,7 @@ I have a strong passion for Backend development, Bitcoin, and Nostr use Kotlin a
 
 - **Nostr** 
   - <img height="30" width="30" src="https://user-images.githubusercontent.com/99301796/219719339-5eff628c-3470-4cc3-81eb-404f8902de9f.gif" />  `lnwza007@rushmi0.win` (NIP-05)
-  - <img height="30" width="30" src="https://user-images.githubusercontent.com/99301796/219719339-5eff628c-3470-4cc3-81eb-404f8902de9f.gif" /> `npub1ujevvncwfe22hv6d2cjv6pqwqhkvwlcvge7vgm3vcn2max9tu03sgze8ry` (Public Key)
+  - <img height="30" width="30" src="https://user-images.githubusercontent.com/99301796/219719339-5eff628c-3470-4cc3-81eb-404f8902de9f.gif" /> `npub1ujevvncwfe22hv6d2cjv6pqwqhkvwlcvge7vgm3vcn2max9tu03sgze8ry`
 
 
 [//]: # (- 🎓 I'm currently studying Information Technology.)
