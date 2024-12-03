@@ -61,7 +61,7 @@ I have a strong passion for Backend development, Bitcoin, and Nostr use Kotlin a
 <img alt="Night Coding" src="https://raw.githubusercontent.com/rushmi0/rushmi0/main/assets/pix_pro1.gif" align="right"/>
 
 <div align="center">
-    <code><img width="50" src="https://user-images.githubusercontent.com/25181517/185062810-7ee0c3d2-17f2-4a98-9d8a-a9576947692b.png" alt="Kotlin" title="Kotlin"/></code>
+    <code><img width="50" src="assets/Kotlin Full Color Logo Mark RGB.svg" alt="Kotlin" title="Kotlin"/></code>
     <code><img width="57" height="57" src="assets/rust-logo-4.png" alt="Rust" title="Rust"/></code>
     <code><img width="50" src="assets/wasm.png" alt="wasm" title="WASM"/></code>
     <code><img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>
