@@ -4,8 +4,10 @@ Welcome to my Profile
 <img height="40" src="assets/Sparkles.webp">
 </h1>
 
+[//]: # (<span><img src="assets/pix_pro2.gif" height=350 width=500 /></span>)
 <div align="center">
-  <span><img src="assets/pix_pro2.gif" height=350 width=712 /></span>
+  <span><img alt="Night Coding" src="https://raw.githubusercontent.com/rushmi0/rushmi0/main/assets/pix_pro1.gif" height=350 width=712/> </span>
+
 </div>
 
 <br/>
@@ -13,8 +15,6 @@ Welcome to my Profile
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=ushmi0&style=flat-square&color=blue"/>
 </p>
-
-
 
 <h1 align="center">👤 About Me</h1>
 
