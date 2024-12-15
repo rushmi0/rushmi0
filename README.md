@@ -4,7 +4,7 @@ Welcome to my Profile
 <img height="40" src="assets/Sparkles.webp">
 </h1>
 
-[//]: # (<span><img src="assets/pix_pro2.gif" height=350 width=500 /></span>)
+[//]: # (<span><img src="assets/pix_pro2.gif" height=350 width=600 /></span>)
 <div align="center">
   <span><img alt="Night Coding" src="https://raw.githubusercontent.com/rushmi0/rushmi0/main/assets/pix_pro1.gif" height=350 width=712/> </span>
 
@@ -55,6 +55,8 @@ I have a strong passion for Backend development, Bitcoin, and Nostr use Kotlin a
 
 
 <h1 align="center">🛠️ Language and Tools 💻</h1>
+
+<div align="center">
 
 <table>
     <tr>
@@ -196,7 +198,7 @@ I have a strong passion for Backend development, Bitcoin, and Nostr use Kotlin a
         <td align="center" width="98">Cloudflare</td>
     </tr>
 </table>
-
+</div>
 
 
 
