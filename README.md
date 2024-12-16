@@ -146,7 +146,7 @@ I have a strong passion for Backend development, Bitcoin, and Nostr use Kotlin a
         <tr>
             <td align="center" width="98">
                 <a href="#mahmud0808-tech">
-                    <img src="https://go-skill-icons.vercel.app/api/icons?i=ktor" width="48" height="48" alt="" />
+                    <img src="https://go-skill-icons.vercel.app/api/icons?i=actix" width="48" height="48" alt="" />
                 </a>
             </td>
             <td align="center" width="98">
@@ -161,15 +161,15 @@ I have a strong passion for Backend development, Bitcoin, and Nostr use Kotlin a
             </td>
             <td align="center" width="98">
                 <a href="#mahmud0808-tech">
-                    <img src="https://go-skill-icons.vercel.app/api/icons?i=actix" width="48" height="48" alt="" />
+                    <img src="https://go-skill-icons.vercel.app/api/icons?i=ktor" width="48" height="48" alt="" />
                 </a>
             </td>
         </tr>
         <tr>
-            <td align="center" width="98">Ktor</td>
+            <td align="center" width="98">Actix</td>
             <td align="center" width="98">Dioxus</td>
             <td align="center" width="98">Micronaut</td>
-            <td align="center" width="98">Actix</td>
+            <td align="center" width="98">Ktor</td>
         </tr>
         <tr>
             <td align="center" width="98">
