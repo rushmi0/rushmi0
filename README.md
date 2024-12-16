@@ -59,118 +59,202 @@ I have a strong passion for Backend development, Bitcoin, and Nostr use Kotlin a
 
 <div align="center">
 <table>
-    <tr>
-        <td align="center" width="98">
-            <a href="#mahmud0808-tech">
-                <img src="https://go-skill-icons.vercel.app/api/icons?i=kotlin" width="48" height="48" alt="" />
-            </a>
-        </td>
-        <td align="center" width="98">
-            <a href="#mahmud0808-tech">
-                <img src="https://go-skill-icons.vercel.app/api/icons?i=rust" width="48" height="48" alt="" />
-            </a>
-        </td>
-        <td align="center" width="98">
-            <a href="#mahmud0808-tech">
-                <img src="https://go-skill-icons.vercel.app/api/icons?i=wasm" width="48" height="48" alt="" />
-            </a>
-        </td>
-        <td align="center" width="98">
-            <a href="#mahmud0808-tech">
-                <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/javascript.svg" width="48" height="48" alt="" />
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td align="center" width="98">Kotlin</td>
-        <td align="center" width="98">Rust</td>
-        <td align="center" width="98">WASM</td>
-        <td align="center" width="98">JavaScript</td>
-    </tr>
-    <tr>
-        <td align="center" width="98">
-            <a href="#mahmud0808-tech">
-                <img src="https://go-skill-icons.vercel.app/api/icons?i=java" width="48" height="48" alt="" />
-            </a>
-        </td>
-        <td align="center" width="98">
-            <a href="#mahmud0808-tech">
-                <img src="https://go-skill-icons.vercel.app/api/icons?i=cs" width="48" height="48" alt="" />
-            </a>
-        </td>
-        <td align="center" width="98">
-            <a href="#mahmud0808-tech">
-                <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/python-dark.svg" width="48" height="48" alt="" />
-            </a>
-        </td>
-        <td align="center" width="98">
-            <a href="#mahmud0808-tech">
-                <img src="https://go-skill-icons.vercel.app/api/icons?i=hyprland" width="48" height="48" alt="" />
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td align="center" width="98">Java</td>
-        <td align="center" width="98">C#</td>
-        <td align="center" width="98">Python</td>
-        <td align="center" width="98">Hyprland</td>
-    </tr>
-    <tr>
-        <td align="center" width="98">
-            <a href="#mahmud0808-tech">
-                <img src="https://go-skill-icons.vercel.app/api/icons?i=git" width="48" height="48" alt="" />
-            </a>
-        </td>
-        <td align="center" width="98">
-            <a href="#mahmud0808-tech">
-                <img src="https://go-skill-icons.vercel.app/api/icons?i=githubactions" width="48" height="48" alt="" />
-            </a>
-        </td>
-        <td align="center" width="98">
-            <a href="#mahmud0808-tech">
-                <img src="https://go-skill-icons.vercel.app/api/icons?i=bash" width="48" height="48" alt="" />
-            </a>
-        </td>
-        <td align="center" width="98">
-            <a href="#mahmud0808-tech">
-                <img src="https://go-skill-icons.vercel.app/api/icons?i=actix" width="48" height="48" alt="" />
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td align="center" width="98">Git</td>
-        <td align="center" width="98">Action</td>
-        <td align="center" width="98">Bash</td>
-        <td align="center" width="98">Actix</td>
-    </tr>
-    <tr>
-        <td align="center" width="98">
-            <a href="#mahmud0808-tech">
-                <img src="https://go-skill-icons.vercel.app/api/icons?i=docker" width="48" height="48" alt="" />
-            </a>
-        </td>
-        <td align="center" width="98">
-            <a href="#mahmud0808-tech">
-                <img src="https://go-skill-icons.vercel.app/api/icons?i=androidstudio" width="48" height="48" alt="" />
-            </a>
-        </td>
-        <td align="center" width="98">
-            <a href="#mahmud0808-tech">
-                <img src="https://go-skill-icons.vercel.app/api/icons?i=idea" width="48" height="48" alt="" />
-            </a>
-        </td>
-        <td align="center" width="98">
-            <a href="#mahmud0808-tech">
-                <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql" width="48" height="48" alt="" />
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td align="center" width="98">Docker</td>
-        <td align="center" width="98">Android Studio</td>
-        <td align="center" width="98">Intellij IDEA</td>
-        <td align="center" width="98">PostgreSQL</td>
-    </tr>
+<tr>
+            <td align="center" width="98">
+                <a href="#mahmud0808-tech">
+                    <img src="https://go-skill-icons.vercel.app/api/icons?i=kotlin" width="48" height="48" alt="" />
+                </a>
+            </td>
+            <td align="center" width="98">
+                <a href="#mahmud0808-tech">
+                    <img src="https://go-skill-icons.vercel.app/api/icons?i=rust" width="48" height="48" alt="" />
+                </a>
+            </td>
+            <td align="center" width="98">
+                <a href="#mahmud0808-tech">
+                    <img src="https://go-skill-icons.vercel.app/api/icons?i=wasm" width="48" height="48" alt="" />
+                </a>
+            </td>
+            <td align="center" width="98">
+                <a href="#mahmud0808-tech">
+                    <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/javascript.svg" width="48" height="48" alt="" />
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center" width="98">Kotlin</td>
+            <td align="center" width="98">Rust</td>
+            <td align="center" width="98">WASM</td>
+            <td align="center" width="98">JavaScript</td>
+        </tr>
+        <tr>
+            <td align="center" width="98">
+                <a href="#mahmud0808-tech">
+                    <img src="https://go-skill-icons.vercel.app/api/icons?i=java" width="48" height="48" alt="" />
+                </a>
+            </td>
+            <td align="center" width="98">
+                <a href="#mahmud0808-tech">
+                    <img src="https://go-skill-icons.vercel.app/api/icons?i=cs" width="48" height="48" alt="" />
+                </a>
+            </td>
+            <td align="center" width="98">
+                <a href="#mahmud0808-tech">
+                    <img src="https://go-skill-icons.vercel.app/api/icons?i=c" width="48" height="48" alt="" />
+                </a>
+            </td>
+            <td align="center" width="98">
+                <a href="#mahmud0808-tech">
+                    <img src="https://go-skill-icons.vercel.app/api/icons?i=python" width="48" height="48" alt="" />
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center" width="98">Java</td>
+            <td align="center" width="98">C#</td>
+            <td align="center" width="98">C</td>
+            <td align="center" width="98">Python</td>
+        </tr>
+        <tr>
+            <td align="center" width="98">
+                <a href="#mahmud0808-tech">
+                    <img src="https://go-skill-icons.vercel.app/api/icons?i=hyprland" width="48" height="48" alt="" />
+                </a>
+            </td>
+            <td align="center" width="98">
+                <a href="#mahmud0808-tech">
+                    <img src="assets/Gunter.gif" width="48" height="48" alt="" />
+                </a>
+            </td>
+            <td align="center" width="98">
+                <a href="#mahmud0808-tech">
+                    <img src="https://go-skill-icons.vercel.app/api/icons?i=nixos" width="48" height="48" alt="" />
+                </a>
+            </td>
+            <td align="center" width="98">
+                <a href="#mahmud0808-tech">
+                    <img src="assets/fedora.png" width="48" height="48" alt="" />
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center" width="98">Hyprland</td>
+            <td align="center" width="98">Linux</td>
+            <td align="center" width="98">NixOS</td>
+            <td align="center" width="98">Fadora</td>
+        </tr>
+        <tr>
+            <td align="center" width="98">
+                <a href="#mahmud0808-tech">
+                    <img src="https://go-skill-icons.vercel.app/api/icons?i=ktor" width="48" height="48" alt="" />
+                </a>
+            </td>
+            <td align="center" width="98">
+                <a href="#mahmud0808-tech">
+                    <img src="assets/multiplatform-light-abda01e6c8663204.svg" width="48" height="48" alt="" />
+                </a>
+            </td>
+            <td align="center" width="98">
+                <a href="#mahmud0808-tech">
+                    <img src="assets/micronaut.png" width="48" height="48" alt="" />
+                </a>
+            </td>
+            <td align="center" width="98">
+                <a href="#mahmud0808-tech">
+                    <img src="https://go-skill-icons.vercel.app/api/icons?i=actix" width="48" height="48" alt="" />
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center" width="98">Ktor</td>
+            <td align="center" width="98">Dioxus</td>
+            <td align="center" width="98">Micronaut</td>
+            <td align="center" width="98">Actix</td>
+        </tr>
+        <tr>
+            <td align="center" width="98">
+                <a href="#mahmud0808-tech">
+                    <img src="https://go-skill-icons.vercel.app/api/icons?i=git" width="48" height="48" alt="" />
+                </a>
+            </td>
+            <td align="center" width="98">
+                <a href="#mahmud0808-tech">
+                    <img src="https://go-skill-icons.vercel.app/api/icons?i=githubactions" width="48" height="48" alt="" />
+                </a>
+            </td>
+            <td align="center" width="98">
+                <a href="#mahmud0808-tech">
+                    <img src="https://go-skill-icons.vercel.app/api/icons?i=bash" width="48" height="48" alt="" />
+                </a>
+            </td>
+            <td align="center" width="98">
+                <a href="#mahmud0808-tech">
+                    <img src="https://go-skill-icons.vercel.app/api/icons?i=kitty" width="48" height="48" alt="" />
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center" width="98">Git</td>
+            <td align="center" width="98">Action</td>
+            <td align="center" width="98">Bash</td>
+            <td align="center" width="98">Kitty</td>
+        </tr>
+        <tr>
+            <td align="center" width="98">
+                <a href="#mahmud0808-tech">
+                    <img src="https://go-skill-icons.vercel.app/api/icons?i=cloudflare" width="48" height="48" alt="" />
+                </a>
+            </td>
+            <td align="center" width="98">
+                <a href="#mahmud0808-tech">
+                    <img src="assets/Power_Automate.png" width="48" height="48" alt="" />
+                </a>
+            </td>
+            <td align="center" width="98">
+                <a href="#mahmud0808-tech">
+                    <img src="https://go-skill-icons.vercel.app/api/icons?i=arduino" width="48" height="48" alt="" />
+                </a>
+            </td>
+            <td align="center" width="98">
+                <a href="#mahmud0808-tech">
+                    <img src="assets/graalvm.png" width="48" height="48" alt="" />
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center" width="98">Cloudflare</td>
+            <td align="center" width="98">Power Automate</td>
+            <td align="center" width="98">Arduino IDE</td>
+            <td align="center" width="98">GraalVM</td>
+        </tr>
+        <tr>
+            <td align="center" width="98">
+                <a href="#mahmud0808-tech">
+                    <img src="https://go-skill-icons.vercel.app/api/icons?i=docker" width="48" height="48" alt="" />
+                </a>
+            </td>
+            <td align="center" width="98">
+                <a href="#mahmud0808-tech">
+                    <img src="https://go-skill-icons.vercel.app/api/icons?i=androidstudio" width="48" height="48" alt="" />
+                </a>
+            </td>
+            <td align="center" width="98">
+                <a href="#mahmud0808-tech">
+                    <img src="https://go-skill-icons.vercel.app/api/icons?i=idea" width="48" height="48" alt="" />
+                </a>
+            </td>
+            <td align="center" width="98">
+                <a href="#mahmud0808-tech">
+                    <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql" width="48" height="48" alt="" />
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center" width="98">Docker</td>
+            <td align="center" width="98">Android Studio</td>
+            <td align="center" width="98">Intellij IDEA</td>
+            <td align="center" width="98">PostgreSQL</td>
+        </tr>
 </table>
 </div>
 
