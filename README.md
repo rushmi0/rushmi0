@@ -21,7 +21,7 @@ Welcome to my Profile
 <p>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi!, currently studying for a Bachelor of Science in Information Technology
 </p>
-I have a strong passion for Backend development, Bitcoin, and Nostr use Kotlin as my primary language.
+I have a strong passion for Backend development, Bitcoin and Nostr.
 
 ### 💬 Contact
 
