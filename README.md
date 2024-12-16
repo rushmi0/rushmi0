@@ -56,13 +56,13 @@ I have a strong passion for Backend development, Bitcoin, and Nostr use Kotlin a
 
 <h1 align="center">🛠️ Language and Tools 💻</h1>
 
-<div align="center">
 
+<div align="center">
 <table>
     <tr>
         <td align="center" width="98">
             <a href="#mahmud0808-tech">
-                <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/kotlin-dark.svg" width="48" height="48" alt="" />
+                <img src="https://go-skill-icons.vercel.app/api/icons?i=kotlin" width="48" height="48" alt="" />
             </a>
         </td>
         <td align="center" width="98">
@@ -80,6 +80,14 @@ I have a strong passion for Backend development, Bitcoin, and Nostr use Kotlin a
                 <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/javascript.svg" width="48" height="48" alt="" />
             </a>
         </td>
+    </tr>
+    <tr>
+        <td align="center" width="98">Kotlin</td>
+        <td align="center" width="98">Rust</td>
+        <td align="center" width="98">WASM</td>
+        <td align="center" width="98">JavaScript</td>
+    </tr>
+    <tr>
         <td align="center" width="98">
             <a href="#mahmud0808-tech">
                 <img src="https://go-skill-icons.vercel.app/api/icons?i=java" width="48" height="48" alt="" />
@@ -95,32 +103,19 @@ I have a strong passion for Backend development, Bitcoin, and Nostr use Kotlin a
                 <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/python-dark.svg" width="48" height="48" alt="" />
             </a>
         </td>
-    </tr>
-    <tr>
-        <td align="center" width="98">Kotlin</td>
-        <td align="center" width="98">Rust</td>
-        <td align="center" width="98">WASM</td>
-        <td align="center" width="98">JavaScript</td>
-        <td align="center" width="98">Java</td>
-        <td align="center" width="98">C#</td>
-        <td align="center" width="98">Python</td>
-    </tr>
-    <tr>
         <td align="center" width="98">
             <a href="#mahmud0808-tech">
                 <img src="https://go-skill-icons.vercel.app/api/icons?i=hyprland" width="48" height="48" alt="" />
             </a>
         </td>
-        <td align="center" width="98">
-            <a href="#mahmud0808-tech">
-                <img src="assets/Gunter.gif" width="48" height="48" alt="" />
-            </a>
-        </td>
-        <td align="center" width="">
-            <a href="#mahmud0808-tech">
-                <img src="assets/multiplatform-light-abda01e6c8663204.svg" width="48" height="48" alt="" />
-            </a>
-        </td>
+    </tr>
+    <tr>
+        <td align="center" width="98">Java</td>
+        <td align="center" width="98">C#</td>
+        <td align="center" width="98">Python</td>
+        <td align="center" width="98">Hyprland</td>
+    </tr>
+    <tr>
         <td align="center" width="98">
             <a href="#mahmud0808-tech">
                 <img src="https://go-skill-icons.vercel.app/api/icons?i=git" width="48" height="48" alt="" />
@@ -143,9 +138,6 @@ I have a strong passion for Backend development, Bitcoin, and Nostr use Kotlin a
         </td>
     </tr>
     <tr>
-        <td align="center" width="98">Hyprland</td>
-        <td align="center" width="98">Linux</td>
-        <td align="center" width="98">Dioxus</td>
         <td align="center" width="98">Git</td>
         <td align="center" width="98">Action</td>
         <td align="center" width="98">Bash</td>
@@ -172,33 +164,16 @@ I have a strong passion for Backend development, Bitcoin, and Nostr use Kotlin a
                 <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql" width="48" height="48" alt="" />
             </a>
         </td>
-        <td align="center" width="98">
-            <a href="#mahmud0808-tech">
-                <img src="https://go-skill-icons.vercel.app/api/icons?i=ktor" width="48" height="48" alt="" />
-            </a>
-        </td>
-        <td align="center" width="98">
-            <a href="#mahmud0808-tech">
-                <img src="https://go-skill-icons.vercel.app/api/icons?i=kitty" width="48" height="48" alt="" />
-            </a>
-        </td>
-        <td align="center" width="98">
-            <a href="#mahmud0808-tech">
-                <img src="https://go-skill-icons.vercel.app/api/icons?i=cloudflare" width="48" height="48" alt="" />
-            </a>
-        </td>
     </tr>
     <tr>
         <td align="center" width="98">Docker</td>
-        <td align="center" width="98">Android studio</td>
-        <td align="center" width="98">Intellij Idea</td>
-        <td align="center" width="98">PostresSQL</td>
-        <td align="center" width="98">Action</td>
-        <td align="center" width="98">Kitty</td>
-        <td align="center" width="98">Cloudflare</td>
+        <td align="center" width="98">Android Studio</td>
+        <td align="center" width="98">Intellij IDEA</td>
+        <td align="center" width="98">PostgreSQL</td>
     </tr>
 </table>
 </div>
+
 
 
 
