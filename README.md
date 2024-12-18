@@ -235,12 +235,12 @@ I am deeply passionate about the development of Bitcoin and Nostr. อย่า�
             </td>
             <td align="center" width="98">
                 <a href="#mahmud0808-tech">
-                    <img src="https://go-skill-icons.vercel.app/api/icons?i=androidstudio" width="48" height="48" alt="" />
+                    <img src="assets/rustrover.svg" width="48" height="48" alt="" />
                 </a>
             </td>
             <td align="center" width="98">
                 <a href="#mahmud0808-tech">
-                    <img src="https://go-skill-icons.vercel.app/api/icons?i=idea" width="48" height="48" alt="" />
+                    <img src="assets/idea.svg" width="48" height="48" alt="" />
                 </a>
             </td>
             <td align="center" width="98">
@@ -251,7 +251,7 @@ I am deeply passionate about the development of Bitcoin and Nostr. อย่า�
         </tr>
         <tr>
             <td align="center" width="98">Docker</td>
-            <td align="center" width="98">Android Studio</td>
+            <td align="center" width="98">RustRover</td>
             <td align="center" width="98">Intellij IDEA</td>
             <td align="center" width="98">PostgreSQL</td>
         </tr>
