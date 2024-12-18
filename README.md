@@ -21,7 +21,7 @@ Welcome to my Profile
 <p>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi!, currently studying for a Bachelor of Science in Information Technology
 </p>
-I have a strong passion for Backend development, Bitcoin and Nostr. อย่าซีเล็ง เดี๋ยวซู๊หริ่ง ถ้ากู้ สลิ้งแตก แล้วเอ็งจะซะง้อง
+I am deeply passionate about the development of Bitcoin and Nostr. อย่าซีเล็ง เดี๋ยวซู๊หริ่ง ถ้ากูสลิ้งแตก แล้วเอ็งจะซะง้อง
 
 ### 💬 Contact
 
