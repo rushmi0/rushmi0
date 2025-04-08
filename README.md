@@ -19,9 +19,9 @@ Welcome to my Profile
 <h1 align="center">👤 About Me</h1>
 
 <p>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi!, currently studying for a Bachelor of Science in Information Technology
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi!, I am deeply passionate about the development of Bitcoin and Nostr.
 </p>
-I am deeply passionate about the development of Bitcoin and Nostr. อย่าซีเล็ง เดี๋ยวซู๊หริ่ง ถ้ากูสลิ้งแตก แล้วเอ็งจะซะง้อง
+ อย่าซีเล็ง เดี๋ยวซู๊หริ่ง ถ้ากูสลิ้งแตก แล้วเอ็งจะซะง้อง
 
 ### 💬 Contact
 
@@ -272,7 +272,7 @@ I am deeply passionate about the development of Bitcoin and Nostr. อย่า�
 [![Fenrir-s](https://github-readme-stats.vercel.app/api/pin/?username=rushmi0&repo=Fenrir-s&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rushmi0/Fenrir-s)
 [![story-teller](https://github-readme-stats.vercel.app/api/pin/?username=rushmi0&repo=story-teller&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rushmi0/story-teller)
 
-[![ECC-Security](https://github-readme-stats.vercel.app/api/pin/?username=rushmi0&repo=ECC-Security&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rushmi0/ECC-Security)
+[![Fenrir-Webpage](https://github-readme-stats.vercel.app/api/pin/?username=rushmi0&repo=Fenrir-Webpage&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rushmi0/Fenrir-Webpage)
 [![genesec](https://github-readme-stats.vercel.app/api/pin/?username=rushmi0&repo=genesec&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/rushmi0/genesec)
 
 <br/>
